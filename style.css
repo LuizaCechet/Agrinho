@@ -23,7 +23,7 @@
 
 /* Corpo da página */
 body {
-    background-color: var(--background-color);
+    background-color: greenyellow;
     color: var(--text-color);
     line-height: 1.6;
 }
@@ -62,4 +62,8 @@ nav {
 .video-container {
     text-align: center;
     font-size: 2rem;
+}
+
+footer {
+    background-color: green;
 }
